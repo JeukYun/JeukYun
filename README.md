@@ -1,9 +1,5 @@
 <h1 align="left">Hi 👋, I'm JeUk Yun</h1>
-<h3 align="left">Welcome. I aspire to become a data analyst/data engineer</h3>
 
-- 🌱 I’m currently learning **Data analysis / ML / DL**
-
-- 📫 How to reach me **yju1205@gmail.com**
 
 <br />
 <p align="left">
@@ -18,10 +14,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </p>
 <br />
-<h3 align="left">📈 my github stats</h3>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jeukyun&show_icons=true&theme=gotham&locale=en" alt="jeukyun" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeukyun&show_icons=true&theme=gotham&locale=en&layout=compact" alt="jeukyun" /></p>
 
 
 
