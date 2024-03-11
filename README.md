@@ -1,6 +1,5 @@
 # 👋배우고, 성장하는 윤제욱입니다.
 ## _배운 내용을 기록하는 곳입니다._
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeukYun&count_bg=%2379C83D&title_bg=%234A3C3C&icon=&icon_color=%23864747&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 
 **Skills**  
