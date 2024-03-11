@@ -15,5 +15,5 @@
 
 **Collaboration**  
 ![git 로고](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white "git 로고") ![github 로고](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white "github 로고") ![notion 로고](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white "notion 로고") ![slack 로고](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "slack 로고") 
-
+---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yju1205)](https://solved.ac/yju1205/)
